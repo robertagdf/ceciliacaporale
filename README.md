@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/ceciliacaporale">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ceciliacaporale&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliacaporale&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ceciliacaporale&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliacaporale&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -28,8 +28,9 @@
   <a href = "mailto:cecicaporale16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariaceciliacaporale" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+    
+   
 </div>
     
   
