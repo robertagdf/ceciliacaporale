@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/99148011/157923452-600939b0-29d4-4ad3-900a-f35764d7ca8d.png" width="300px" />
+<img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" width="650px" />
 </div>
 
 ###  🐌    Engenharia de Software 
