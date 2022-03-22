@@ -6,7 +6,7 @@
 <img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" width="650px" />
 </div>
 
-<h3> :crystal_ball: &nbsp;Sobre mim </h3>
+<h3> 💡 &nbsp;Sobre mim </h3>
 
 - :pushpin: &nbsp; Estudando HTML, CSS e JS e explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Engenharia de Software**.
