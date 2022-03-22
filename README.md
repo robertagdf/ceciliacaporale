@@ -14,11 +14,6 @@
 
 
 
-
-                                                            #OPENTOWORK
-
-
-
 <div align="center">
   <a href="https://github.com/ceciliacaporale">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ceciliacaporale&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
