@@ -8,7 +8,7 @@
 
 <h3> :crystal_ball: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Estudando HTML, CSS e JS e explorando novas tecnologias e desenvolvendo soluções de software.
+- :pushpin: &nbsp; Estudando HTML, CSS e JS e explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Engenharia de Software**.
 
 
