@@ -10,7 +10,7 @@
 
 - :pushpin: &nbsp; Estudando HTML, CSS e JS e explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Engenharia de Software**.
-
+- :metal: Estudando atualmente Desenvolvimento Front-en HTML | CSS | JavaScript 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
